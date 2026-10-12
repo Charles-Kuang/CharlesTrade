@@ -1,0 +1,4 @@
+# Local SQLite DB (created by backfill)
+*.db
+*.db-wal
+*.db-shm
